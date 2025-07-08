@@ -48,7 +48,7 @@ body{
     transform: translateY(-100%);
 }
 .box:nth-child(3)::before{
-    content:"u";
+    content:"n";
 }
 .box:nth-child(4)::before{
     content:"a";
